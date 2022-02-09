@@ -1,0 +1,14 @@
+.die {
+  border-radius: 10px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
+  min-height: 3.13rem;
+  min-width: 3.13rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.die__num {
+  font-size: 2rem;
+}
